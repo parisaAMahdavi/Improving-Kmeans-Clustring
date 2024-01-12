@@ -1,1 +1,7 @@
-# GPT_RedditData_Analysis
+K-means clustering is a popular unsupervised machine learning algorithm used for partitioning a dataset into K distinct, non-overlapping clusters. In this notebook, our goal is to employ K-means clustering on Reddit comments discussing GPT.
+
+We'll explore two distinct methods for vectorizing text data: TF-IDF, a simpler method reliant on word frequencies, and BERT, a deep learning-based model known for capturing rich context and semantics. The aim is to compare their performance on our dataset.
+
+Additionally, we'll conduct an alternative test by employing PCA and UMAP to reduce the dimensionality of BERT-derived features. This step becomes crucial as utilizing BERT often results in high-dimensional feature sets, making it challenging for K-means to effectively analyze all the features. By reducing dimensionality, we aim to enhance K-means' ability to cluster the data effectively based on the reduced feature space.
+
+In another approach, we aim to select initial centroids by leveraging the principal components. This method involves using the principal components obtained through PCA to initialize the centroids for the K-means clustering algorithm. By utilizing these principal components as starting points for centroids, we aim to potentially enhance the convergence and performance of the clustering process, allowing for a more optimized arrangement of clusters in the feature space.
