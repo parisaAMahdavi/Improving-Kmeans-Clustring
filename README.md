@@ -2,7 +2,7 @@
 ![Example Image](images/sample.jpg)
 # Improving K-means Clustering Performance on GPT-Related Reddit Comments
 
-$\color{Orange}{\textsf{Introduction}}$
+$\color{Lime}{\textsf{Introduction}}$
 
 K-means clustering is a widely used unsupervised machine learning algorithm for partitioning datasets into K-distinct, non-overlapping clusters. In this notebook, we aim to apply K-means clustering to Reddit comments discussing GPT.
 
@@ -12,16 +12,16 @@ K-means clustering is a widely used unsupervised machine learning algorithm for 
 
 - In another approach, we aim to select initial centroids by leveraging the principal components. This method involves using the principal components obtained through PCA to initialize the centroids for the K-means clustering algorithm. By utilizing these principal components as starting points for centroids, we aim to potentially enhance the convergence and performance of the clustering process, allowing for a more optimized arrangement of clusters in the feature space.
 
-$\color{Orange}{\textsf{Text Vectorization Methods}}$
+$\color{Lime}{\textsf{Text Vectorization Methods}}$
 
 1. **TF-IDF Vectorization**
 2. **BERT Embeddings**
 
-$\color{Orange}{\textsf{Dimensionality Reduction strategies:}}$
+$\color{Lime}{\textsf{Dimensionality Reduction strategies:}}$
 1. **PCA**
 2. **UMAP**
 
-$\color{Orange}{\textsf{Centroid Initialization Techniques:}}$
+$\color{Lime}{\textsf{Centroid Initialization Techniques:}}$
 1. **K-means++ Initialization**
 2. **Principal Component Initialization**
 
