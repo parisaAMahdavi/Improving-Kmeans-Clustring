@@ -1,5 +1,5 @@
 
-![Example Image](images/example.png)
+![Example Image](images/sample.jpg)
 # Improving K-means Clustering Performance on GPT-Related Reddit Comments
 
 $\color{Orange}{\textsf{Introduction}}$
