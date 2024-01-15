@@ -40,3 +40,5 @@ Our benchmark measures the performance of the clustering obtained via different 
 2. Davies-Bouldin
 3. Calinski-Harabasz
 4. Silhouette Coefficient
+
+![result Image](images/results.png)
