@@ -1,6 +1,6 @@
 # Improving K-means Clustering Performance on GPT-Related Reddit Comments
 
-$\color{Orange}{\textsf{Programming Languages and Database:}}$## Introduction
+$\color{Orange}{\textsf{## Introduction}}$
 
 K-means clustering is a widely used unsupervised machine learning algorithm for partitioning datasets into K-distinct, non-overlapping clusters. In this notebook, we aim to apply K-means clustering to Reddit comments discussing GPT.
 
