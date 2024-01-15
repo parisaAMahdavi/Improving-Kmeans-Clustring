@@ -34,7 +34,7 @@ So this notebook compares different approaches for unsupervised clustering text 
 5. Clustering on BERT features reduced using Uniform Manifold Approximation and Projection (UMAP).
 6. Clustering with PCA-reduced BERT features using PCA initialization.
 
-$\color{Orange}{\textsf{Evaluation and Results}}$
+$\color{Lime}{\textsf{Evaluation and Results}}$
 Our benchmark measures the performance of the clustering obtained via different metrics:
 1. Inertia
 2. Davies-Bouldin
