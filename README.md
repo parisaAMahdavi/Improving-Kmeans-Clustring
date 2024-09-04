@@ -1,5 +1,8 @@
 
 ![Example Image](images/sample.jpg)
+![hyperparameter](https://share.icloud.com/photos/0cd6395TCM1aUXokf4EMDZrKQ)
+
+
 # Improving K-means Clustering Performance on GPT-Related Reddit Comments
 
 $\color{Lime}{\textsf{Introduction}}$
